@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorPrimary500</color>
+    <color name="colorPrimaryDark">@color/colorPrimary700</color>
+    <color name="colorAccent">@color/colorSecondary500</color>
+    <color name="colorLightGreen">#503BB884</color>
+
+    <color name="colorPrimary100">#F3F7F9</color>
+    <color name="colorPrimary100Opacity90">#E6F3F7F9</color>
+    <color name="colorPrimary200">#B3C5CB</color>
+    <color name="colorPrimary300">#8CA7B0</color>
+    <color name="colorPrimary400">#406E7C</color>
+    <color name="colorPrimary500">#003E51</color>
+    <color name="colorPrimary500Transparent">#00003E51</color>
+    <color name="colorPrimary50050">#50003E51</color>
+    <color name="colorPrimary700">#002530</color>
+    <color name="colorPrimary700Opacity90">#E6002530</color>
+    <color name="colorPrimary700Transparent">#00002530</color>
+
+    <color name="colorSecondary500">#E6FF00</color>
+    <color name="colorSecondary100">#D9E2E5</color>
+    <color name="colorSecondary500Opacity50">#80E6FF00</color>
+    <color name="colorSecondary50050">#50E6FF00</color>
+
+    <color name="colorNeutralWhite">#FFFFFF</color>
+    <color name="colorNeutral200">#E6EAEB</color>
+    <color name="colorNeutral300">#C0C9CE</color>
+    <color name="colorNeutral700">#616F75</color>
+    <color name="colorNeutral1000">#202527</color>
+    <color name="colorNeutral100070">#70202527</color>
+    <color name="colorNeutralWhiteOpacity30">#4DFFFFFF</color>
+
+    <color name="colorGreen200">#C6F3DD</color>
+    <color name="colorGreen400">#7AE5B1</color>
+    <color name="colorGreen500">#41DA90</color>
+    <color name="colorGreen700">#2E9965</color>
+
+    <color name="colorRed200">#FFD7D8</color>
+    <color name="colorRed400">#FF6A6E</color>
+    <color name="colorRed500">#FF393E</color>
+    <color name="colorRed700">#992225</color>
+
+    <color name="colorTeal">@color/colorPrimary</color>
+
+    <color name="colorTeal100">#FF005670</color>
+    <color name="colorBrightGreen">#E6FF00</color>
+    <color name="dimmedBrightGreen">#4CE6FF00</color>
+    <color name="colorBrightLightGreen">#F8FFBB</color>
+    <color name="colorGray">#31454F</color>
+    <color name="colorGray20">#B0B7B9</color>
+    <color name="gray50">#737C7E</color>
+    <color name="gray80">#C0CACE</color>
+    <color name="gray90">#e3e8e9</color>
+    <color name="gray70">#8CA7B0</color>
+    <color name="baseGray">#E6EAEB</color>
+
+    <color name="grayGreen">#616F75</color>
+    <color name="colorDarkGreen">#FF2A3D45</color>
+    <color name="colorGray10">#FFF3F3F3</color>
+    <color name="colorGrayBright">#FFDEE2E5</color>
+    <color name="colorLightGray">#FF909B9D</color>
+    <color name="colorShinyGray">#FFC0CACE</color>
+    <color name="colorGrayProfileInput">#4B5A60</color>
+    <color name="colorLightWhite">#FFECEFF1</color>
+    <color name="colorDarkGray">#FF262626</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteBright">#FFFAF9F5</color>
+    <color name="colorWhite90">#FFFFFEF9</color>
+    <color name="colorWhite80">#80FFFEF9</color>
+    <color name="colorWhite50">#50FFFFFF</color>
+    <color name="colorWhite30">#4CFFFEF9</color>
+    <color name="colorWhiteButton">#FFDBEEE1</color>
+
+    <color name="colorValidationError">@color/colorYellow</color>
+    <color name="colorRedValidationError">#F65A4B</color>
+
+    <color name="colorGrayFull">#FF1F1F1F</color>
+    <color name="colorTranslucentBackground">#CC1F1F1F</color>
+
+    <color name="colorHomeBackgroundGradientStart">#3BAAB8</color>
+    <color name="colorHomeBackgroundGradientCenter">#3BB19F</color>
+    <color name="colorHomeBackgroundGradientEnd">#3BB884</color>
+
+    <color name="colorAvailable">#FFFFCC66</color>
+    <color name="colorGray98">#FFFFFEF8</color>
+    <color name="colorDotDefault">#80FFFEF8</color>
+
+    <color name="colorWhiteYellow">#FFE6FF00</color>
+
+    <color name="colorGreenBlueLight">#A4D0C0</color>
+    <color name="colorGreenBlue">#FF3BAAB8</color>
+
+    <color name="colorNavBarDiv">#FFC7D9CD</color>
+    <color name="colorSwipeItem">#80E1E1E1</color>
+    <color name="colorValidationPending">#FF858891</color>
+    <color name="colorGrayShapePicturePreview">#D0D5DB</color>
+
+    <!-- New color -->
+    <color name="colorYellow">#FFFFA300</color>
+    <color name="colorGray95">#FFECEFF1</color>
+    <color name="colorFadedBlue">#70003E51</color>
+    <color name="colorGray80">#FFCCCCCC</color>
+    <color name="colorDarkBlueGreen">#FF005670</color>
+    <color name="colorLightBlue">#FF3D6C90</color>
+    <color name="colorBlue">#FF17607D</color>
+    <color name="colorFadedGray">#70ECEFF1</color>
+    <color name="colorRed">#FF393E</color>
+    <color name="colorGray90">#FFE1E1E1</color>
+    <color name="colorGreen">#FF3BB884</color>
+    <color name="colorWhiteTransparent">#00FFFFFF</color>
+    <color name="colorWhiteHalfAlpha">#80FFFFFF</color>
+    <color name="colorWhite30Alpha">#4DFFFFFF</color>
+    <color name="colorWhite40Alpha">#66FFFFFF</color>
+    <color name="colorWhite1FAlpha">#1FFFFFFF</color>
+    <color name="view_pager_indicator_selected_color">@color/colorBrightGreen</color>
+    <color name="darkBlueGray">#2A3D45</color>
+    <color name="lightBlueGray">#005670</color>
+    <color name="gray65">#9BA5A7</color>
+    <color name="gray97">#F2F4F8</color>
+    <color name="colorTextOptionButton">#D9E2E5</color>
+    <color name="colorBaseBackground">#F3F7F9</color>
+
+    <color name="color_payment_fee">#646464</color>
+    <color name="color_payment_fee_date">#868685</color>
+    <color name="color_payment_fee_value">#6F6F6F</color>
+    <color name="color_payment_subtitle_successful">#F4F5F9</color>
+    <color name="color_generic_alert_background">#95000607</color>
+    <color name="color_credit_amount">#455A64</color>
+    <color name="color_light_blue">#D9E2E5</color>
+    <color name="color_silver_blue">#406E7C</color>
+    <color name="color_white_blue">#B3C5CB</color>
+    <color name="color_light_silver">#81949C</color>
+    <color name="color_green_blue">#003E51</color>
+    <color name="color_green_blue_light">#005570</color>
+    <color name="colorDarkBlue">#FF003E51</color>
+    <color name="colorDarkTeal">#002530</color>
+    <color name="color_obscure_blue">#FF002530</color>
+    <color name="color_dark_blue_second">#003444</color>
+    <color name="color_dark_blue_home">#002530</color>
+    <color name="color_black_brown">#24242E</color>
+    <color name="onfidoPrimaryButtonColor">@color/colorDarkBlueGreen</color>
+    <color name="onfidoPrimaryButtonTextColor">@color/colorBrightGreen</color>
+    <color name="colorProfileItemSubtitle">#8CA7B0</color>
+    <color name="opal">#A4D0C0</color>
+    <color name="veryDarkCyan">#002530</color>
+    <color name="lightRed">#FF6A6E</color>
+    <color name="darkCyan">#003444</color>
+    <color name="colorItemShippingSelected">#1AF3F7F9</color>
+    <color name="grayDisable">#C0C9CE</color>
+    <color name="lightGray">#B3BFC4</color>
+    <color name="backgroundTermsGray">#E5E5E5</color>
+    <color name="colorSeekBar">#0000ffff</color>
+    <!-- Notifications -->
+    <color name="colorPurple">#8774FF</color>
+    <color name="colorOrange">#FF9E45</color>
+    <color name="colorYellowLight">#FFC634</color>
+    <color name="sign_in_phase1">#EFEFDC</color>
+    <color name="sign_in_phase2">#C7AD99</color>
+    <color name="sign_in_phase3">#E1C7C7</color>
+    <color name="savings_upgrade_phase_2">#A4AC99</color>
+</resources>
