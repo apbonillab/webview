@@ -29,20 +29,21 @@ class MainActivity : AppCompatActivity() {
             domStorageEnabled = true
 
         }
+        val nombre = "Alexis"
 
         val webData = "<!DOCTYPE html>\n" +
                 "<html>\n" +
                 "<head>\n" +
-                "<script type=\"application/javascript\" charset=\"UTF-8\" src=\"https://cdn.agentbot.net/core/01adee186c48f0051aa4bbdbef7ed684.js\"></script>\n" +
+                "<script type=\"application/javascript\" charset=\"UTF-8\" src=\"https://cdn.agentbot.net/core/01adee186c48f0051aa4bbdbef7ed684.js\"></script></script>\n" +
                 "<script type=\"text/javascript\">\n" +
                 "\$aivo.ready(function() {\n" +
                 "\$aivo.chat.open();\n" +
-                "\$aivo.user.new ();\n" +
-                "\$aivo.user.set(\"name\", \"Adriana Paola Bonilla B\");\n" +
+                "\$aivo.user.set(\"name\", \"$nombre\");\n" +
                 "\$aivo.user.set(\"email\", \"pao.bonilla@hotmail.es\");\n" +
-                "\$aivo.user.set(\"phone\", \"3112333030\");\n" +
-                "\$aivo.user.set(\"user_id\", 678999);\n" +
-                "\$aivo.chat.addMessage(\"Hola en que te puedo ayudar Adriana\");</script>\n" +
+                "\$aivo.user.set(\"phone\", \"+573112333030\");\n" +
+                "\$aivo.user.set(\"external_id\", 1018999);\n" +
+                "\$aivo.chat.addMessage(\"Hola en que te puedo ayudar $nombre\");\n" +
+                "});</script>\n" +
                 "</head>\n" +
                 "<body>\n" +
                 "</body>\n" +
